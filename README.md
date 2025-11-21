@@ -17,7 +17,7 @@
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Python, C/C++, JavaScript, Dart |
-| **Embedded & IoT** | ESP32, Arduino, NodeMCU, Sensors (Ultrasonic/GPS/GSM), Blynk |
+| **Embedded & IoT** | ESP32, Arduino, NodeMCU, RasberryPI, Blynk |
 | **Development** | React, Tailwind CSS, Flutter, Firebase |
 | **Tools** | Git, VS Code, PlatformIO |
 
