@@ -6,7 +6,7 @@
 **B.Tech ECE Student at MIT Aurangabad (2026)**
 *Building the bridge between hardware and software.*
 
-[**🌐 View Portfolio**](https://yash-ghodele.netlify.app)
+[**🌐 View Portfolio**](https://yash-ghodele.pages.dev)
 
 </div>
 
@@ -35,6 +35,6 @@
 
 ### 📫 Connect
 
-- 🌐 **Website:** [yash-ghodele.netlify.app](https://yash-ghodele.netlify.app)
+- 🌐 **Website:** [yash-ghodele.pages.dev](https://yash-ghodele.pages.dev)
 - 💼 **LinkedIn:** [linkedin.com/in/yash-ghodele](https://www.linkedin.com/in/yash-ghodele)
 - 📧 **Email:** [yashghodele.work@gmail.com](mailto:yashghodele.work@gmail.com)
