@@ -1,40 +1,22 @@
-<div align="center">
+# Advanced Animated Profile Display
 
-# Hi, I'm Yash Ghodele 👋
-### IoT Developer | Embedded Systems | Frontend Integration
+This project showcases an advanced animated profile display, featuring customizable animations and styles.
 
-**B.Tech ECE Student at MIT Aurangabad (2026)**
-*Building the bridge between hardware and software.*
+## Features
+- Dynamic animations based on user interactions.
+- Responsive design for various screen sizes.
+- Easy customization options for colors, fonts, and animation styles.
 
-[**🌐 View Portfolio**](https://yash-ghodele.pages.dev)
+## Installation
+1. Clone the repository: `git clone https://github.com/yash-ghodele/yash-ghodele.git`
+2. Navigate to the directory: `cd yash-ghodele`
+3. Open `index.html` in a web browser to view the animated profile display.
 
-</div>
+## Usage
+Modify the `styles.css` file to customize the animations and appearance of the profile display. Experiment with different keyframe animations for unique effects.
 
----
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any enhancements or fixes.
 
-### 🛠️ Tech Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C/C++, JavaScript, Dart |
-| **Embedded & IoT** | ESP32, Arduino, NodeMCU, RasberryPI, Blynk |
-| **Development** | React, Tailwind CSS, Flutter, Firebase |
-| **Tools** | Git, VS Code, PlatformIO |
-
-
----
-
-### 🏆 Leadership & Community
-
-* **Executive Head**, BotBuddies (MIT Aurangabad)
-* **Cultural Secretary**, IETE Students Forum
-* **Event Head**, ECESA
-* *Organiser of InnoHack 2.0 and various technical conclaves.*
-
----
-
-### 📫 Connect
-
-- 🌐 **Website:** [yash-ghodele.pages.dev](https://yash-ghodele.pages.dev)
-- 💼 **LinkedIn:** [linkedin.com/in/yash-ghodele](https://www.linkedin.com/in/yash-ghodele)
-- 📧 **Email:** [yashghodele.work@gmail.com](mailto:yashghodele.work@gmail.com)
+## License
+This project is licensed under the MIT License.
