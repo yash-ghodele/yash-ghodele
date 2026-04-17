@@ -2,20 +2,20 @@
 
 # 🚀 Yash Ghodele
 
-### IoT + Full-Stack Systems Engineer
+### IoT Systems Engineer • Full-Stack Architect • Real-Time Systems Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Embedded-to-Cloud+Architectures;Real-Time+Systems+%7C+AI+Integration+%7C+Production+Thinking" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Embedded+→+Cloud+→+AI+Systems;Real-Time+Architectures+%7C+IoT+%7C+Full-Stack;Engineering+Production-Grade+Systems" />
 
 <br/>
 
-**Embedded Systems × Cloud Infrastructure × Intelligent Automation**
+**🔌 Embedded Systems × ☁️ Cloud × 📊 Data × 📱 Interfaces × 🧠 Intelligence**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yash--ghodele.pages.dev-00D9FF?style=for-the-badge&labelColor=0a0e27&logoColor=00D9FF)](https://yash-ghodele.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Yash_Ghodele-0077B5?style=for-the-badge&labelColor=0a0e27)](https://www.linkedin.com/in/yash-ghodele)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-FF6B6B?style=for-the-badge&labelColor=0a0e27)](mailto:yashghodele.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-@yash--ghodele-181717?style=for-the-badge&labelColor=0a0e27)](https://github.com/yash-ghodele)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yash--ghodele.pages.dev-00D9FF?style=for-the-badge\&labelColor=0a0e27)](https://yash-ghodele.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Yash_Ghodele-0077B5?style=for-the-badge\&labelColor=0a0e27)](https://www.linkedin.com/in/yash-ghodele)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-FF6B6B?style=for-the-badge\&labelColor=0a0e27)](mailto:yashghodele.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-@yash--ghodele-181717?style=for-the-badge\&labelColor=0a0e27)](https://github.com/yash-ghodele)
 
-<img src="https://komarev.com/ghpvc/?username=yash-ghodele&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=yash-ghodele&color=00D9FF&style=for-the-badge" />
 
 </div>
 
@@ -23,405 +23,216 @@
 
 ## 👨‍💻 Who I Am
 
-**B.Tech ECE (2026)** — MIT Aurangabad  
+**B.Tech ECE (2026) — MIT Aurangabad**
 
-I design and build **production-grade systems** that connect:
+I engineer **end-to-end systems** — from hardware to cloud to user interfaces.
 
-🔌 Embedded Hardware → ☁️ Cloud Backends → 📊 Real-time Dashboards → 📱 Mobile Interfaces → 🧠 AI Intelligence
+I don’t just write code — I design **architectures that work in production**.
 
-I think in architectures, not scripts.  
-I build systems, not assignments.
+### ⚡ Core Domains
 
----
-
-## 📊 Skill Proficiency
-
-### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-90%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-![Firebase](https://img.shields.io/badge/Firebase-85%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=FF6B6B)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-90%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-82%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-
-### Frontend & UI
-![Next.js](https://img.shields.io/badge/Next.js-88%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-![React](https://img.shields.io/badge/React-90%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-85%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-88%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-
-### Embedded & IoT
-![ESP32](https://img.shields.io/badge/ESP32-92%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-90%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-![Arduino](https://img.shields.io/badge/Arduino-88%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-![MQTT](https://img.shields.io/badge/MQTT-85%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-
-### Mobile & Cross-Platform
-![Flutter](https://img.shields.io/badge/Flutter-82%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=FF6B6B)
-![Dart](https://img.shields.io/badge/Dart-80%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=FF6B6B)
-
-### Data & ML
-![Python](https://img.shields.io/badge/Python-85%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=00D9FF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-75%25-00D9FF?style=for-the-badge&labelColor=0a0e27&color=FF6B6B)
+* 🔌 IoT & Embedded Systems
+* ☁️ Cloud & Backend Systems
+* 📊 Real-Time Data Systems
+* 📱 Full-Stack & Mobile Apps
+* 🧠 AI Integration
 
 ---
 
-## 🚀 Flagship System: FuelShield
+## 🚀 Engineering Portfolio
 
-### Intelligent Fuel Monitoring & Theft Detection Platform
-
-**Impact:** Enterprise-grade IoT platform for fleet operations | **85%+ reduction** in fuel theft incidents
-
-FuelShield is a full-stack system engineered for real-time fuel visibility, theft prevention, and operational analytics across vehicle fleets.
+I build across domains — **each project solves a real-world system problem**.
 
 ---
 
-## 🏗️ System Architecture
+### 🛢️ FuelShield — Intelligent Fuel Monitoring Platform
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                            FUELSHIELD ARCHITECTURE                                ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
+**IoT + Cloud + Mobile | Fleet Intelligence System**
 
-                              ┌─────────────────┐
-                              │   GPS Module    │
-                              │  (Coordinates)  │
-                              └────────┬────────┘
-                                       │
-                              ┌────────┴────────┐
-                              │                 │
-                    ┌─────────▼────────┐  ┌────▼──────────┐
-                    │  Ultrasonic      │  │  GSM 800      │
-                    │  Sensor (Fuel)   │  │  (Alerts)     │
-                    └─────────┬────────┘  └────┬──────────┘
-                              │                 │
-                    ┌─────────▼─────────────────▼────────┐
-                    │                                    │
-                    │      ESP32 Firmware (Edge)         │
-                    │  ┌────────────────────��─────────┐  │
-                    │  │ • Event Processing           │  │
-                    │  │ • Sensor Calibration         │  │
-                    │  │ • Data Aggregation           │  │
-                    │  │ • Anomaly Detection          │  │
-                    │  │ • Serial Communication       │  │
-                    │  └──────────────────────────────┘  │
-                    │                                    │
-                    └────────┬────────────────────────────┘
-                             │
-                             │ MQTT / WiFi
-                             │
-            ┌────────────────▼─────────────────┐
-            │                                  │
-    ┌───────▼────────┐            ┌─────────▼──────┐
-    │                │            │                │
-    │  Node.js REST  │            │ Firebase Cloud │
-    │  Backend API   │            │  Functions     │
-    │                │            │                │
-    │ • Auth Routes  │            │ • Triggers     │
-    │ • Device Mgmt  │            │ • Processing   │
-    │ • Data Store   │            │ • Alerts       │
-    │                │            │                │
-    └───────┬────────┘            └─────────┬──────┘
-            │                               │
-            └───────────────┬───────────────┘
-                            │
-        ┌───────────────────┼───────────────────┐
-        │                   │                   │
-    ┌───▼────────┐  ┌──────▼────────┐  ┌──────▼────────┐
-    │             │  │               │  │               │
-    │  Firestore  │  │  Realtime DB  │  │  Storage      │
-    │  (Metadata) │  │  (Telemetry)  │  │  (Logs)       │
-    │             │  │               │  │               │
-    └─────────────┘  └───────────────┘  └───────────────┘
-            │                   │                   │
-            └───────────────────┼───────────────────┘
-                                │
-                                │ WebSocket + REST
-                                │
-    ┌──────────────────────────▼──────────────────────────┐
-    │                                                      │
-    │              Next.js Frontend Layer                  │
-    │  ┌──────────────────────────────────────────────┐   │
-    │  │  • Real-time Dashboards                      │   │
-    │  │  • Analytics & Reports                       │   │
-    │  │  • User Management                           │   │
-    │  │  • Command Interface                         │   │
-    │  │  • Live Maps & Tracking                      │   │
-    │  └──────────────────────────────────────────────┘   │
-    │                                                      │
-    └──────────────────────────────────────────────────────┘
-                                │
-                                │
-    ┌──────────────────────────▼──────────────────────────┐
-    │                                                      │
-    │           Flutter Mobile Application                │
-    │  ┌──────────────────────────────────────────────┐   │
-    │  │  • Device Status Monitoring                  │   │
-    │  │  • Real-time Notifications                   │   │
-    │  │  • Offline Support                           │   │
-    │  │  • Push Alerts                               ���   │
-    │  │  • Blynk Integration                         │   │
-    │  └──────────────────────────────────────────────┘   │
-    │                                                      │
-    └──────────────────────────────────────────────────────┘
+* Real-time fuel tracking (ESP32 + ultrasonic sensing)
+* GPS vehicle tracking with live dashboards
+* Theft detection with GSM alerts
+* MQTT-based real-time architecture
+* Full-stack system (Next.js + Firebase + Flutter)
 
-
-DATA FLOW & COMMUNICATION CHANNELS
-═════════════════════════════════════════════════════════════
-
-    Hardware Sensors
-         │
-         ├─→ ESP32 Processing ─→ Event-Driven Logic
-         │
-         └─→ MQTT Publish ─→ Cloud MQTT Bridge
-                              │
-                              ├─→ Firebase RTDB (Telemetry)
-                              ├─→ Cloud Functions (Processing)
-                              ├─→ Firestore (Persistent)
-                              │
-                              └─→ WebSocket to Frontend
-                                  │
-                                  ├─→ Next.js Dashboard
-                                  └─→ Flutter App
-
-SECURITY LAYERS
-═══════════════════════════════════════════════════════════════
-
-Device Level:     ESP32 Firmware Auth + Serial Validation
-Transport Level:  MQTT with TLS + WiFi Encryption
-API Level:        Firebase Auth + JWT Tokens
-Application:      Role-Based Access Control (RBAC)
-Data Level:       Firestore Security Rules + Encryption
-
-```
+> ⚡ Built as a production-ready, scalable IoT platform
 
 ---
 
-#### What It Solves
-- 📍 Real-time fuel level monitoring with sub-2% accuracy
-- 🗺️ Live GPS vehicle tracking (10-second intervals)
-- 🚨 Anomaly-based theft detection with instant GSM alerts
-- 🎮 Remote vehicle control via secure cloud commands
-- 📊 Fuel consumption analytics & efficiency metrics
-- 🔐 Multi-user authentication with role-based access
+### 🤖 RadCollect — Nuclear Inspection ROV
 
-#### Architecture Layers
+**Embedded Robotics | Hazardous Operations**
 
-**🔌 Edge Computing Layer**
-- ESP32 firmware with event-driven architecture
-- Ultrasonic fuel sensor calibration
-- GSM 800 module for emergency alerts
-- GPS module with geofencing logic
-- Optimized serial communication
-
-**☁️ Cloud Processing Layer**
-- Node.js REST API backend
-- Firebase Firestore (structured data)
-- Realtime Database (telemetry streams)
-- Cloud Functions (serverless logic)
-- MQTT bridge (lightweight device sync)
-
-**💻 Frontend Layer**
-- Next.js 14+ (App Router, SSR)
-- TypeScript (type-safe development)
-- Tailwind CSS (responsive design)
-- Firebase Auth (secure sessions)
-- Real-time WebSocket dashboards
-
-**📱 Mobile Layer**
-- Flutter cross-platform app
-- Blynk IoT integration
-- Offline-first sync
-- Push notifications
-
-> **Philosophy:** Built for scale from day one. No technical debt.
-
----
-
-## 🤖 Engineering Portfolio
-
-### RadCollect — Nuclear Inspection ROV
-*Remotely Operated Vehicle for Hazardous Environments*
-
-Modular embedded control system designed for remote sample collection in radiation-restricted zones.
-
-**Technical Highlights:**
-- Embedded firmware with fail-safe controls
-- Remote operation over serial + wireless protocols
-- Radiation-safe component selection
-- Industrial-grade reliability
+* Remote-controlled robotic vehicle
+* Fail-safe embedded firmware
+* Wireless + serial hybrid communication
+* Designed for high-risk environments
 
 ---
 
 ### 🌱 AI Crop Disease Detection
-*Agricultural Diagnostics & Automation*
 
-ML-powered system for real-time plant disease identification from leaf imagery.
+**Machine Learning | AgriTech**
 
-**Technical Highlights:**
-- CNN-based image classification
-- Python TensorFlow pipeline
-- Model optimization for mobile deployment
-- Real-world agricultural deployment
+* CNN-based disease classification
+* TensorFlow pipeline
+* Mobile-optimized inference
+* Real-world agricultural application
 
 ---
 
-### 🔐 IoT Smart Door Lock
-*Enterprise Access Control System*
+### 🔐 Smart IoT Door Lock
 
-Embedded firmware-based remote access control with multi-factor authentication.
+**Security Systems | Embedded + Cloud**
 
-**Technical Highlights:**
-- Microcontroller-based lock mechanism
-- Cloud-based command queue
-- Secure authentication protocol
-- Offline fallback logic
+* Remote access control
+* Cloud-based command system
+* Multi-factor authentication
+* Offline fail-safe logic
 
 ---
 
 ### 📡 Li-Fi Audio Transmission
-*Visible Light Communication System*
 
-Hardware-level audio transmission using modulated light signals.
+**Experimental Communication System**
 
-**Technical Highlights:**
-- Signal encoding/decoding logic
-- Visible light communication protocol
-- Sub-millisecond latency
-- Novel wireless experiment
+* Audio transmission via light signals
+* Signal modulation & decoding
+* Ultra-low latency system
+* Hardware-level implementation
 
 ---
 
-### 📊 Smart CRM System
-*Full-Stack Business Management Platform*
+### 📊 Smart CRM Platform
 
-Production-grade web application for customer relationship management.
+**Full-Stack Web Application**
 
-**Technical Highlights:**
-- Structured data workflows
-- Real-time notifications
-- Database optimization
-- Scalable architecture
+* Workflow automation
+* Real-time updates
+* Scalable backend architecture
+* Production-grade system design
 
 ---
 
-## 💻 Complete Technical Arsenal
+## 🛢️ Deep Dive: FuelShield Architecture
 
-### 📝 Languages & Runtimes
+FuelShield represents my **most advanced system design** — a complete embedded-to-cloud pipeline.
+
+### 🏗️ Architecture Layers
+
+* **Edge Layer:** ESP32 firmware (sensor processing + anomaly detection)
+* **Cloud Layer:** Node.js + Firebase + MQTT bridge
+* **Frontend:** Next.js real-time dashboard
+* **Mobile:** Flutter app with push notifications
+
+### ⚡ Capabilities
+
+* Sub-2% fuel measurement accuracy
+* Live GPS tracking (10s intervals)
+* Instant theft alerts
+* Real-time analytics
+
+> Designed for **scale, reliability, and real-world deployment**
+
+---
+
+## 🧠 Technical Arsenal
+
+### 💻 Languages
+
 ```
-C / C++    •    Python    •    TypeScript    •    JavaScript
+C / C++ • Python • TypeScript • JavaScript
 ```
 
-### 🌐 Web & Cloud Ecosystem
+### 🌐 Web & Cloud
+
 ```
-Frontend:    Next.js  •  React  •  Tailwind CSS  •  TypeScript
-Backend:     Node.js  •  Express  •  REST APIs  •  GraphQL
-Cloud:       Firebase (Auth, Firestore, RTDB, Functions)
-             AWS Lambda  •  Serverless Architecture
-Messaging:   MQTT  •  WebSocket  •  Event Streams
+Next.js • React • Tailwind CSS • Node.js • Express
+Firebase (Auth, Firestore, RTDB, Functions)
+AWS Lambda • REST APIs • GraphQL
 ```
 
-### 🔌 Embedded & IoT Stack
+### 🔌 Embedded & IoT
+
 ```
-Microcontrollers:    ESP32  •  Arduino Mega  •  STM32
-Sensors:             Ultrasonic  •  DHT  •  GPS  •  Accelerometer
-Modules:             GSM 800  •  GPS Module  •  LoRa  •  BLE
-Protocols:           I2C  •  SPI  •  Serial  •  CAN Bus
+ESP32 • Arduino • STM32
+MQTT • I2C • SPI • Serial • CAN
+Ultrasonic • GPS • GSM • LoRa • BLE
 ```
 
-### 📱 Mobile & Cross-Platform
+### 📱 Mobile
+
 ```
-Flutter    •    Dart    •    Blynk Integration
+Flutter • Dart • Blynk
+```
+
+### 🤖 AI / ML
+
+```
+Python • TensorFlow • Computer Vision
 ```
 
 ---
 
-## 🏆 Leadership & Community Impact
+## 🔗 Featured Repositories
 
-### Current Roles
-
-**⭐ Executive Head — BotBuddies (MIT Aurangabad)**
-- Leading 50+ members across robotics & automation
-- Organized 10+ technical workshops
-- Mentoring emerging developers
-- Innovation-driven organizational culture
-
-**📚 Cultural Secretary — IETE Students Forum**
-- 500+ member community
-- Event coordination & engagement
-- Technical knowledge dissemination
-- Fostering engineering culture
-
-**🎯 Event Head — ECESA Department**
-- Quarterly technical conclaves (150+ attendees each)
-- Hardware workshops (500+ trained in IoT)
-- 1-on-1 mentorship (30+ mentees)
-- Building technical excellence culture
-
-### Flagship Events
-
-- **InnoHack 2.0** — 200+ participants | 48-hour hackathon
-- **Technical Conclaves** — Quarterly | 150+ per event
-- **Hardware Workshops** — Hands-on IoT training
-- **Mentorship Program** — 1-on-1 guidance for emerging engineers
+* 🚀 FuelShield → https://github.com/yash-ghodele
+* 🤖 RadCollect → https://github.com/yash-ghodele
+* 🌱 AI Crop Detection → https://github.com/yash-ghodele
+* 🔐 Smart Door Lock → https://github.com/yash-ghodele
+* 📡 Li-Fi System → https://github.com/yash-ghodele
+* 📊 Smart CRM → https://github.com/yash-ghodele
 
 ---
 
-## 🏗️ Engineering Philosophy
+## 🏆 Leadership & Impact
 
-• Design scalable architectures from day one  
-• Separate edge, cloud, and application layers cleanly  
-• Prioritize reliability over shortcuts  
-• Think in systems and data flows  
-• Build like it’s going to production
+### 🎯 Executive Head — BotBuddies
 
----
+* Leading 50+ members in robotics & IoT
+* Conducted 10+ technical workshops
+* Mentoring developers in real-world systems
 
-## 🎯 Current Technical Focus
+### 📚 Cultural Secretary — IETE
 
-**🔬 Research Areas**
-- Distributed IoT architectures at scale
-- Edge AI & machine learning inference
-- Secure device authentication & encryption
-- Event-driven serverless backends
-- Real-time data pipeline optimization
+* Managing 500+ member technical community
+* Driving engagement & events
 
-**💡 Building Expertise In**
-- Embedded systems + Cloud orchestration
-- Real-time monitoring dashboards
-- System reliability & fault tolerance
-- Technical architecture decisions
-- Team leadership & mentoring
+### ⚙️ Event Head — ECESA
+
+* Organized large-scale technical events
+* Built hands-on IoT training ecosystem
 
 ---
 
-## ��� GitHub Analytics & Contributions
+## 🧠 Engineering Philosophy
+
+* Build systems, not features
+* Design for scale from day one
+* Separate edge, cloud, and UI cleanly
+* Prioritize reliability over shortcuts
+* Think in architectures, not scripts
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-ghodele&show_icons=true&theme=dark&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&hide_border=true&rank_icon=github)](https://github.com/yash-ghodele)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-ghodele\&show_icons=true\&theme=dark\&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-ghodele&layout=compact&theme=dark&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&hide_border=true)](https://github.com/yash-ghodele)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yash-ghodele&theme=dark&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9)](https://github.com/yash-ghodele)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-ghodele\&layout=compact\&theme=dark\&hide_border=true)
 
 </div>
 
 ---
 
-## 🎓 What I'm Seeking
+## 🎯 What I'm Looking For
 
-### 🚀 Opportunity Types
-- **IoT Systems Engineering** roles at scale-ups / enterprises
-- **Full-Stack Development** combining embedded + cloud
-- **Hardware + Software** integration projects
-- **Pre-seed / Series A** startup collaboration
-- **Technical mentorship** & knowledge leadership
-
-### 💬 Open To Discussing
-- IoT architectures & system design
-- Embedded-to-cloud integration patterns
-- Real-time data system engineering
-- Starting ventures in deep tech
-- Technical mentoring & community building
+* 🚀 IoT Systems Engineering Roles
+* 💻 Full-Stack + Embedded Integration
+* 🧠 Real-Time Systems & AI
+* ⚙️ Startup / Deep-Tech Opportunities
 
 ---
 
@@ -429,30 +240,18 @@ Flutter    •    Dart    •    Blynk Integration
 
 <div align="center">
 
-### If you're building:
-**IoT Systems** • **Real-time Dashboards** • **Hardware-Cloud Products** • **AI Automation** • **Production Systems**
+If you're building **IoT platforms, real-time systems, or hardware-cloud products** — let's talk.
 
 ---
 
-### 📫 Get In Touch
-
-| 🌐 **Portfolio** | 💼 **LinkedIn** | 📧 **Email** | 💻 **GitHub** |
-|:---:|:---:|:---:|:---:|
-| [yash-ghodele.pages.dev](https://yash-ghodele.pages.dev) | [@yash-ghodele](https://www.linkedin.com/in/yash-ghodele) | [yashghodele.work@gmail.com](mailto:yashghodele.work@gmail.com) | [@yash-ghodele](https://github.com/yash-ghodele) |
+📧 [yashghodele.work@gmail.com](mailto:yashghodele.work@gmail.com)
+💼 linkedin.com/in/yash-ghodele
+🌐 yash-ghodele.pages.dev
 
 ---
 
-**⭐ If my work resonates, star my repositories!**
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Build systems that matter. Engineer for impact.  
-Design for scale. Build for reliability.
-
-Building the future — one architecture at a time. 🔥
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+**⭐ Star my repositories if you like my work**
 
 </div>
+
+---
