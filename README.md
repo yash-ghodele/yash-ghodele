@@ -2,256 +2,132 @@
 
 # 🚀 Yash Ghodele
 
-### IoT Systems Engineer • Full-Stack Architect • Real-Time Systems Builder
+### Software Engineer • Product Builder • Systems Thinker
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Embedded+→+Cloud+→+AI+Systems;Real-Time+Architectures+%7C+IoT+%7C+Full-Stack;Engineering+Production-Grade+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real-world+problems;Full-Stack+Development+%7C+Backend+Systems+%7C+IoT;From+Ideas+to+Production-Ready+Products" />
 
 <br/>
 
-**🔌 Embedded Systems × ☁️ Cloud × 📊 Data × 📱 Interfaces × 🧠 Intelligence**
+**💻 Software • ☁️ Cloud • ⚙️ Automation • 🔌 IoT • 🚀 Product Engineering**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yash--ghodele.pages.dev-00D9FF?style=for-the-badge\&labelColor=0a0e27)](https://yash-ghodele.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Yash_Ghodele-0077B5?style=for-the-badge\&labelColor=0a0e27)](https://www.linkedin.com/in/yash-ghodele)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-FF6B6B?style=for-the-badge\&labelColor=0a0e27)](mailto:yashghodele.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@yash--ghodele-181717?style=for-the-badge\&labelColor=0a0e27)](https://github.com/yash-ghodele)
 
-<img src="https://komarev.com/ghpvc/?username=yash-ghodele&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yash-ghodele&style=for-the-badge&color=00D9FF"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Who I Am
+# 👋 About Me
 
-**B.Tech ECE (2026) — MIT Aurangabad**
+I'm **Yash Ghodele**, a B.Tech Electronics & Computer Engineering student passionate about building software that solves real-world problems.
 
-I engineer **end-to-end systems** — from hardware to cloud to user interfaces.
+I enjoy building complete products—from backend architecture and databases to intuitive user interfaces and connected hardware whenever the problem demands it.
 
-I don’t just write code — I design **architectures that work in production**.
+Rather than chasing trends, I focus on creating products that are reliable, scalable, and genuinely useful.
 
-### ⚡ Core Domains
+## 📍 Currently
 
-* 🔌 IoT & Embedded Systems
-* ☁️ Cloud & Backend Systems
-* 📊 Real-Time Data Systems
-* 📱 Full-Stack & Mobile Apps
-* 🧠 AI Integration
+- 🎓 B.Tech Electronics & Computer Engineering (2026)
+- 🚀 Building software products and automation tools
+- 🌱 Exploring system design, scalable architectures, and developer tooling
 
 ---
 
-## 🚀 Engineering Portfolio
+## 🚀 Featured Projects
 
-I build across domains — **each project solves a real-world system problem**.
+The projects below represent different areas of software engineering—from embedded systems and AI to full-stack platforms and business automation.
 
----
 
-### 🛢️ FuelShield — Intelligent Fuel Monitoring Platform
+### 🛢️ FuelShield
+- Intelligent IoT platform for real-time fuel monitoring, GPS tracking, and theft detection.
+- Built using ESP32, MQTT, Firebase, and Next.js to deliver scalable fleet analytics.
 
-**IoT + Cloud + Mobile | Fleet Intelligence System**
+### 🌱 Sanjivani 2.0
+- AI-powered crop disease detection platform with multilingual and offline-first support.
+- Combines TensorFlow, FastAPI, and Next.js to assist farmers with instant diagnosis.
 
-* Real-time fuel tracking (ESP32 + ultrasonic sensing)
-* GPS vehicle tracking with live dashboards
-* Theft detection with GSM alerts
-* MQTT-based real-time architecture
-* Full-stack system (Next.js + Firebase + Flutter)
+### 🎭 Backstage
+- Event management platform designed to simplify registrations, volunteers, scheduling, and event operations.
+- Built as a centralized workspace for organizers to manage events from planning to execution.
 
-> ⚡ Built as a production-ready, scalable IoT platform
+### 🏢 Ugam Portal
+- Business management platform for handling clients, projects, and internal operations.
+- Provides a unified workspace for project tracking, collaboration, and digital service management.
 
----
+### 🩺 LocalMD
+- Local-first Markdown workspace with native file access, offline support, and zero backend dependency.
+- Supports PDF, DOCX, and PPTX conversion, Mermaid diagrams, and KaTeX for technical documentation.
+### 📊 Excel Smart CRM Automation
+- VBA-powered CRM automation system that streamlines lead processing and repetitive business workflows.
+- Reduced manual effort through automated reporting, data management, and workflow automation.
 
-### 🤖 RadCollect — Nuclear Inspection ROV
-
-**Embedded Robotics | Hazardous Operations**
-
-* Remote-controlled robotic vehicle
-* Fail-safe embedded firmware
-* Wireless + serial hybrid communication
-* Designed for high-risk environments
-
----
-
-### 🌱 AI Crop Disease Detection
-
-**Machine Learning | AgriTech**
-
-* CNN-based disease classification
-* TensorFlow pipeline
-* Mobile-optimized inference
-* Real-world agricultural application
-
----
-
-### 🔐 Smart IoT Door Lock
-
-**Security Systems | Embedded + Cloud**
-
-* Remote access control
-* Cloud-based command system
-* Multi-factor authentication
-* Offline fail-safe logic
-
----
+### 🔐 Automatic Door Locking System
+- IoT-enabled smart security system with remote access and multi-factor authentication.
+- Developed using ESP8266/ESP32 and Blynk with cloud connectivity and fail-safe operation.
 
 ### 📡 Li-Fi Audio Transmission
+- Embedded communication system demonstrating wireless audio transmission using visible light.
+- Explores signal modulation, hardware implementation, and low-latency optical communication.
+---
 
-**Experimental Communication System**
+# 💻 Tech Stack
 
-* Audio transmission via light signals
-* Signal modulation & decoding
-* Ultra-low latency system
-* Hardware-level implementation
+
+## 🧠 **Languages**  
+`TypeScript` `JavaScript` `Python` `C/C++`
+
+## 🌐 **Web**  
+`Next.js` `React` `Tailwind CSS` `Node.js` `Express`
+
+## 🗄️ **Backend & Database**  
+`Firebase` `FastAPI` `SQL`
+
+## 🤖 **AI**  
+`TensorFlow` `OpenCV`
+
+## 🔌 **Embedded**  
+`ESP32` `ESP8266` `Arduino` `MQTT`
+
+## 🛠️ **Tools**  
+`Git` `GitHub` `Docker` `Postman` `Figma` `Canva`
 
 ---
 
-### 📊 Smart CRM Platform
+## 💡 Engineering Philosophy
 
-**Full-Stack Web Application**
-
-* Workflow automation
-* Real-time updates
-* Scalable backend architecture
-* Production-grade system design
-
----
-
-## 🛢️ Deep Dive: FuelShield Architecture
-
-FuelShield represents my **most advanced system design** — a complete embedded-to-cloud pipeline.
-
-### 🏗️ Architecture Layers
-
-* **Edge Layer:** ESP32 firmware (sensor processing + anomaly detection)
-* **Cloud Layer:** Node.js + Firebase + MQTT bridge
-* **Frontend:** Next.js real-time dashboard
-* **Mobile:** Flutter app with push notifications
-
-### ⚡ Capabilities
-
-* Sub-2% fuel measurement accuracy
-* Live GPS tracking (10s intervals)
-* Instant theft alerts
-* Real-time analytics
-
-> Designed for **scale, reliability, and real-world deployment**
+- Build products that solve real problems.
+- Keep architectures simple, scalable, and maintainable.
+- Automate repetitive work whenever possible.
+- Prioritize user experience alongside code quality.
+- Learn by building.
 
 ---
 
-## 🧠 Technical Arsenal
-
-### 💻 Languages
-
-```
-C / C++ • Python • TypeScript • JavaScript
-```
-
-### 🌐 Web & Cloud
-
-```
-Next.js • React • Tailwind CSS • Node.js • Express
-Firebase (Auth, Firestore, RTDB, Functions)
-AWS Lambda • REST APIs • GraphQL
-```
-
-### 🔌 Embedded & IoT
-
-```
-ESP32 • Arduino • STM32
-MQTT • I2C • SPI • Serial • CAN
-Ultrasonic • GPS • GSM • LoRa • BLE
-```
-
-### 📱 Mobile
-
-```
-Flutter • Dart • Blynk
-```
-
-### 🤖 AI / ML
-
-```
-Python • TensorFlow • Computer Vision
-```
-
----
-
-## 🔗 Featured Repositories
-
-* 🚀 FuelShield → https://github.com/yash-ghodele
-* 🤖 RadCollect → https://github.com/yash-ghodele
-* 🌱 AI Crop Detection → https://github.com/yash-ghodele
-* 🔐 Smart Door Lock → https://github.com/yash-ghodele
-* 📡 Li-Fi System → https://github.com/yash-ghodele
-* 📊 Smart CRM → https://github.com/yash-ghodele
-
----
-
-## 🏆 Leadership & Impact
-
-### 🎯 Executive Head — BotBuddies
-
-* Leading 50+ members in robotics & IoT
-* Conducted 10+ technical workshops
-* Mentoring developers in real-world systems
-
-### 📚 Cultural Secretary — IETE
-
-* Managing 500+ member technical community
-* Driving engagement & events
-
-### ⚙️ Event Head — ECESA
-
-* Organized large-scale technical events
-* Built hands-on IoT training ecosystem
-
----
-
-## 🧠 Engineering Philosophy
-
-* Build systems, not features
-* Design for scale from day one
-* Separate edge, cloud, and UI cleanly
-* Prioritize reliability over shortcuts
-* Think in architectures, not scripts
-
----
-
-## 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-ghodele\&show_icons=true\&theme=dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-ghodele\&layout=compact\&theme=dark\&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-ghodele&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 What I'm Looking For
-
-* 🚀 IoT Systems Engineering Roles
-* 💻 Full-Stack + Embedded Integration
-* 🧠 Real-Time Systems & AI
-* ⚙️ Startup / Deep-Tech Opportunities
-
----
-
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
-If you're building **IoT platforms, real-time systems, or hardware-cloud products** — let's talk.
+I'm always interested in collaborating on meaningful software projects, open-source contributions, and innovative ideas.
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yash--ghodele.pages.dev-00D9FF?style=for-the-badge&labelColor=0a0e27)](https://yash-ghodele.pages.dev)
+[![Ugam](https://img.shields.io/badge/🚀_Ugam_Digital_Studio-Visit_Website-7C3AED?style=for-the-badge&labelColor=0a0e27)](https://ugamdigitalstudio.tech/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Yash_Ghodele-0077B5?style=for-the-badge&labelColor=0a0e27)](https://linkedin.com/in/yash-ghodele)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-FF6B6B?style=for-the-badge&labelColor=0a0e27)](mailto:yashghodele.work@gmail.com)
 
-📧 [yashghodele.work@gmail.com](mailto:yashghodele.work@gmail.com)
-💼 linkedin.com/in/yash-ghodele
-🌐 yash-ghodele.pages.dev
-
----
-
-**⭐ Star my repositories if you like my work**
+⭐ **If you like my work, consider starring a repository.**
 
 </div>
-
----
